@@ -1,6 +1,7 @@
 # Hi, I'm John
 
 **Cyber Security & Machine Learning Engineer**
+
 I build AI systems that detect threats, and I bring security thinking to everything I build.
 
 MSc Cyber Security & Emerging Threats @ Middlesex University London · BSc Software Engineering (First Class) · ISC2 CC
